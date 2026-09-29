@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">
+  Con honor y compromiso me presento:
+  <br>
+  Victor Cardoso
+</h1>
 
-<!--
-**vcarv7/vcarv7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Desarrollador-22952C?style=for-the-badge&logo=codefactor&logoColor=white" alt="Desarrollador"/>
+  <img src="https://img.shields.io/badge/Backend-0D1117?style=for-the-badge&logo=serverless&logoColor=22952C" alt="Backend"/>
+</p>
 
-Here are some ideas to get you started:
+<img align="right" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=25&duration=3000&pause=2000&color=22952C&background=7E5A4600&center=true&vCenter=true&random=false&width=435&lines=Cargando+.+.+.+.+.++cuerpo+mente+y+alma)](https://git.io/typing-svg)
+
+<h4 align="right"><i>Ser culto es el único modo de ser libre<br></i></h4>
+
+---
+
+<h3 align="center">🛠️ Stack & Herramientas</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/warp-%2301A4FF.svg?style=for-the-badge&logo=warp&logoColor=white" alt="Warp"/>
+  <img src="https://img.shields.io/badge/opencode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=ffffff" alt="OpenCode"/>
+  <img src="https://img.shields.io/badge/Brave-%23FB542B.svg?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave"/>
+  <img src="https://img.shields.io/badge/Zen-%23F76F53.svg?style=for-the-badge&logo=zenbrowser&logoColor=white" alt="Zen"/>
+</p>
+
+---
+
+<h3 align="center">📊 Estadísticas de GitHub</h3>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=vcarv7&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22952C&icon_color=22952C"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vcarv7&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=22952C"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vcarv7&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=22952C&fire=22952C&currStreakLabel=22952C" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vcarv7&theme=chartreuse-dark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vcarv7&label=Profile%20views&color=22952C&style=flat-square" alt="Victor Cardoso"/>
+</p>
