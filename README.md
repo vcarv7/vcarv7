@@ -1,5 +1,5 @@
 <h1 align="center">
-  Con honor y compromiso me presento:
+  Forjado en disciplina, código y libertad:
   <br>
   Victor Cardoso
 </h1>
