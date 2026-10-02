@@ -12,9 +12,6 @@
 <img align="right" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=25&duration=3000&pause=2000&color=22952C&background=7E5A4600&center=true&vCenter=true&random=false&width=435&lines=Cargando+.+.+.+.+.++cuerpo+mente+y+alma)](https://git.io/typing-svg)
-
-<h4 align="right"><i>Ser culto es el único modo de ser libre<br></i></h4>
-
 ---
 
 <h3 align="center">🛠️ Stack & Herramientas</h3>
