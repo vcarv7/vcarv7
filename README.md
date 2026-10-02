@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="mailto:victorcv326@gmail.com">
-    <img src="https://img.shields.io/badge/Email-victorcv326%40gmail.com-22952C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="28" height="28" />
+    victorcv326@gmail.com
   </a>
 </p>
-
