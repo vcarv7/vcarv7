@@ -28,8 +28,8 @@
 <h3 align="center">📊 Estadísticas de GitHub</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=vcarv7&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22952C&icon_color=22952C"/>
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vcarv7&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=22952C"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vcarv7&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22952C&icon_color=22952C"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcarv7&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=22952C"/>
 </p>
 
 <p align="center">
