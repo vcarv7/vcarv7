@@ -22,22 +22,6 @@
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 </p>
-
----
-
-<h3 align="center">📊 Estadísticas de GitHub</h3>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vcarv7&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22952C&icon_color=22952C"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcarv7&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=22952C"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vcarv7&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=22952C&fire=22952C&currStreakLabel=22952C" alt="GitHub Streak"/>
-</p>
-
----
-
 <h3 align="center">📚 Aprendizaje</h3>
 
 <p align="center">
