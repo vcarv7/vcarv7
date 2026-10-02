@@ -55,7 +55,6 @@
 
 <p align="center">
   <a href="mailto:victorcv326@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="28" height="28" />
-    victorcv326@gmail.com
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="28" height="28" /> victorcv326@gmail.com
   </a>
 </p>
