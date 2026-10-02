@@ -14,6 +14,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=25&duration=3000&pause=2000&color=22952C&background=7E5A4600&center=true&vCenter=true&random=false&width=435&lines=Cargando+.+.+.+.+.++cuerpo+mente+y+alma)](https://git.io/typing-svg)
 ---
 
+<h3 align="center">📫 Contacto</h3>
+
+<p align="center">
+  <a href="victorcv326@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tu--correo%40ejemplo.com-22952C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
 <h3 align="center">🛠️ Stack & Herramientas</h3>
 
 <p align="center">
