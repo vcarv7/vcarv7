@@ -14,22 +14,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=25&duration=3000&pause=2000&color=22952C&background=7E5A4600&center=true&vCenter=true&random=false&width=435&lines=Cargando+.+.+.+.+.++cuerpo+mente+y+alma)](https://git.io/typing-svg)
 ---
 
-<h3 align="center">📫 Contacto</h3>
-
-<p align="center">
-  <a href="victorcv326@gmail.com">
-    <img src="https://img.shields.io/badge/style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
 <h3 align="center">🛠️ Stack & Herramientas</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 </p>
 
 ---
@@ -56,4 +47,18 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vcarv7&label=Profile%20views&color=22952C&style=flat-square" alt="Victor Cardoso"/>
+</p>
+
+---
+
+<h3 align="center">📫 Contacto</h3>
+
+<p align="center">
+  <a href="mailto:victorcv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-victorcv%40gmail.com-22952C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:victorcv@gmail.com">✉️ Escríbeme: victorcv@gmail.com</a>
 </p>
