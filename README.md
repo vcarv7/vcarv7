@@ -54,11 +54,8 @@
 <h3 align="center">📫 Contacto</h3>
 
 <p align="center">
-  <a href="mailto:victorcv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-victorcv%40gmail.com-22952C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:victorcv326@gmail.com">
+    <img src="https://img.shields.io/badge/Email-victorcv326%40gmail.com-22952C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="mailto:victorcv@gmail.com">✉️ Escríbeme: victorcv@gmail.com</a>
-</p>
