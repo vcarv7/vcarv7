@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="victorcv326@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tu--correo%40ejemplo.com-22952C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
