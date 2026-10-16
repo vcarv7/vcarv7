@@ -1,5 +1,5 @@
 <h1 align="center">
-  Forjado en disciplina, código y libertad:
+  Forjado con disciplina, código y libertad:
   <br>
   Victor Cardoso
 </h1>
