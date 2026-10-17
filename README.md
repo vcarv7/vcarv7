@@ -17,15 +17,29 @@
 
 ---
 
+<!-- Estadísticas con doble tema (prefers-color-scheme): contraste WCAG AA garantizado en claro y oscuro -->
+
 <h3 align="center">📊 Estadísticas en GitHub</h3>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vcarv7&show_icons=true&hide_border=true&rank_icon=github&locale=es&title_color=22952C&icon_color=22952C&text_color=808080&bg_color=00000000" alt="Estadísticas de GitHub de Victor Cardoso"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcarv7&layout=compact&langs_count=6&hide_border=true&locale=es&title_color=22952C&text_color=808080&bg_color=00000000" alt="Lenguajes más usados"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vcarv7&show_icons=true&hide_border=true&rank_icon=github&locale=es&title_color=22952C&icon_color=22952C&text_color=C3CAD9&bg_color=00000000"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vcarv7&show_icons=true&hide_border=true&rank_icon=github&locale=es&title_color=14701E&icon_color=14701E&text_color=434D58&bg_color=00000000"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=vcarv7&show_icons=true&hide_border=true&rank_icon=github&locale=es&title_color=14701E&icon_color=14701E&text_color=434D58&bg_color=00000000" alt="Tarjeta de estadísticas de GitHub: estrellas, commits, pull requests y contribuciones totales de Victor Cardoso"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vcarv7&layout=compact&langs_count=6&hide_border=true&locale=es&title_color=22952C&text_color=C3CAD9&bg_color=00000000"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vcarv7&layout=compact&langs_count=6&hide_border=true&locale=es&title_color=14701E&text_color=434D58&bg_color=00000000"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcarv7&layout=compact&langs_count=6&hide_border=true&locale=es&title_color=14701E&text_color=434D58&bg_color=00000000" alt="Tarjeta de lenguajes más usados: proporción de cada lenguaje en los repositorios de Victor Cardoso"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img width="68%" src="https://streak-stats.demolab.com?user=vcarv7&hide_border=true&locale=es&background=00000000&ring=22952C&fire=22952C&currStreakLabel=22952C&sideLabels=808080&dates=808080" alt="Racha de contribuciones"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vcarv7&hide_border=true&locale=es&background=00000000&ring=22952C&fire=22952C&currStreakLabel=22952C&currStreakNum=22952C&sideLabels=C3CAD9&sideNums=C3CAD9&dates=8B949E"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=vcarv7&hide_border=true&locale=es&background=00000000&ring=14701E&fire=14701E&currStreakLabel=14701E&currStreakNum=14701E&sideLabels=434D58&sideNums=434D58&dates=57606A"/>
+    <img width="68%" src="https://streak-stats.demolab.com?user=vcarv7&hide_border=true&locale=es&background=00000000&ring=14701E&fire=14701E&currStreakLabel=14701E&currStreakNum=14701E&sideLabels=434D58&sideNums=434D58&dates=57606A" alt="Tarjeta de racha de contribuciones: días consecutivos con actividad, contribuciones totales y récord de Victor Cardoso"/>
+  </picture>
 </p>
 
 ---
