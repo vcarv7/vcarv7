@@ -5,13 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&duration=3000&pause=2000&color=22952C&center=true&vCenter=true&width=540&lines=Desarrollador+Backend;Ingeniero+en+Ciencias+Inform%C3%A1ticas" alt="Desarrollador Backend"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&duration=3000&pause=2000&color=22952C&center=true&vCenter=true&width=540&lines=Ingeniero+en+Ciencias+Inform%C3%A1ticas" alt="Ingeniero en Ciencias Informáticas"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 </p>
 
@@ -40,15 +39,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=vcarv7&hide_border=true&locale=es&background=00000000&ring=14701E&fire=14701E&currStreakLabel=14701E&currStreakNum=14701E&sideLabels=434D58&sideNums=434D58&dates=57606A"/>
     <img width="68%" src="https://streak-stats.demolab.com?user=vcarv7&hide_border=true&locale=es&background=00000000&ring=14701E&fire=14701E&currStreakLabel=14701E&currStreakNum=14701E&sideLabels=434D58&sideNums=434D58&dates=57606A" alt="Tarjeta de racha de contribuciones: días consecutivos con actividad, contribuciones totales y récord de Victor Cardoso"/>
   </picture>
-</p>
-
----
-
-<h3 align="center">📚 Formación continua</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/W3%20Schools-%2304AA6D.svg?style=for-the-badge&logo=w3schools&logoColor=white" alt="W3Schools"/>
-  <img src="https://img.shields.io/badge/freecodecamp-%230A0A23.svg?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp"/>
 </p>
 
 ---
